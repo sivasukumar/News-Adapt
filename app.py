@@ -78,7 +78,7 @@ def display_news(list_of_news, news_quantity):
 
 # Function to translate text
 def translate_text(text, target_languages):
-    key = "d4306f7dfadf46a9b2943c5b8814c879"
+    key = "d007437880634b00bd95fbab546596ad"
     endpoint = "https://api.cognitive.microsofttranslator.com"
     location = "westus"
     path = '/translate'
