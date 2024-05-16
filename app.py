@@ -80,7 +80,7 @@ def display_news(list_of_news, news_quantity):
 def translate_text(text, target_languages):
     key = "d007437880634b00bd95fbab546596ad"
     endpoint = "https://api.cognitive.microsofttranslator.com"
-    location = "westus"
+    location = "eastus"
     path = '/translate'
     constructed_url = endpoint + path
     translated_texts = []
