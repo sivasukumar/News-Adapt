@@ -39,8 +39,8 @@
 - And after this , went to create a Azure AI-Translator using Azure to translate the text of a web page from one language to another language.
 - Youtube video link of project:
 ## Working Links of Project:
-## [Demo of App](https://newsadapt.azurewebsites.net)
-- Web Application hosted on Azure: https://newsadapt.azurewebsites.net
+## [Demo of App](https://newsadaptt.azurewebsites.net)
+- Web Application hosted on Azure: https://newsadaptt.azurewebsites.net
 - Github Repository: https://github.com/sivasukumar/News-Adapt
 - Youtube demo video link: https://youtu.be/19d0fCvc7Pk
 - Documentation: https://drive.google.com/file/d/11U-DTsmQe5LL8G4fj7OR0eO0sNS1wkhe/view?usp=sharing
